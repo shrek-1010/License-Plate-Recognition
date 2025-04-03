@@ -77,4 +77,3 @@ For any queries, feel free to reach out:
 ---
 Give a ⭐ if you like this project! 🔥
 
-*"Your health is our priority, one symptom at a time!"* 🏥
