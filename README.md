@@ -22,7 +22,7 @@ Welcome to the future of **smart surveillance and automated vehicle tracking**! 
 ---
 🖼️Project Images
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7b3b0730-32b6-4b06-a9b5-57ed012f57a2)
 
 
 ## 🚀 Installation & Setup
