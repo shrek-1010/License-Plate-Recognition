@@ -20,6 +20,8 @@ Welcome to the future of **smart surveillance and automated vehicle tracking**! 
 5️⃣ **User-Friendly Interface:** Press 'Q' to exit the detection mode.  
 
 ---
+🖼️Project Images
+![image](https://github.com/user-attachments/assets/56378ec9-9d7d-433e-bda0-f605a9100dfa)
 
 ## 🚀 Installation & Setup
 
